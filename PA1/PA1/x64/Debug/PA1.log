@@ -1,0 +1,5 @@
+﻿  main.c
+C:\Users\elist\Documents\CPTS-121\PA1\main.c(139,9): warning C4476: 'printf' : unknown type field character ')' in format specifier
+C:\Users\elist\Documents\CPTS-121\PA1\main.c(145,9): warning C4129: '%': unrecognized character escape sequence
+C:\Users\elist\Documents\CPTS-121\PA1\main.c(145,9): warning C4476: 'printf' : unknown type field character ')' in format specifier
+  PA1.vcxproj -> C:\Users\elist\Documents\CPTS-121\PA1\x64\Debug\PA1.exe
