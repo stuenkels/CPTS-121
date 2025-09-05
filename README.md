@@ -2,6 +2,8 @@
 
 WSU CPTS-121 C projects collection, lecture examples, labs, and projects. It's only the third week of school, more to come later. 
 
+These are not answer keys, there may be mistakes, bad formatting and other goofs. This is only for my own collection. 
+
 ## File Naming conventions 
 
 Folders are given ISO 8601 timestamps with a descriptive prefix
