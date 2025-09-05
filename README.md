@@ -1,6 +1,6 @@
 <img src="/media/coug.svg" align="left" width="200px"/>
 
-# CTPS-121 projects at WSU
+## CTPS-121 projects at WSU
 
 <br clear="left"/>
 
