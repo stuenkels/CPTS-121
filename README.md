@@ -1,6 +1,5 @@
 # CTPS-121 projects at WSU
 
-
 WSU CPTS-121 C projects collection, lecture examples, labs, and projects. It's only the third week of school, more to come later. 
 
 ## File Naming conventions 
