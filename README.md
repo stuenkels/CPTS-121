@@ -15,6 +15,3 @@ Programming assignments, X is assignment number:
 
 Lab work, X is lab number: 
 `labX_2025-09-05`
-
-lab1_2025-08-28
-8-28-25
