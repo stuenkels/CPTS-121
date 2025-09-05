@@ -1,3 +1,9 @@
+<img src="/media/coug.svg" align="left" width="200px"/>
+
 # CTPS-121 projects at WSU
-Collection of C projects created for my introduction to Computer Science course at Washington State University \
-Created for my own records and documentation
+
+<br clear="left"/>
+
+---
+
+WSU CPTS-121 C projects collection, lecture examples, labs, and projects. It's only the third week of school, more to come later. 
