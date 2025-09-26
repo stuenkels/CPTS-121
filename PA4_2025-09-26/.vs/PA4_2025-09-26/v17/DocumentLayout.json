@@ -1,0 +1,79 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\elist\\Documents\\CPTS-121\\PA4_2025-09-26\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FC62BE9D-22F5-409F-9D01-EAE3758C24CC}|PA4_2025-09-26.vcxproj|C:\\Users\\elist\\Documents\\CPTS-121\\PA4_2025-09-26\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FC62BE9D-22F5-409F-9D01-EAE3758C24CC}|PA4_2025-09-26.vcxproj|solutionrelative:main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC62BE9D-22F5-409F-9D01-EAE3758C24CC}|PA4_2025-09-26.vcxproj|C:\\Users\\elist\\Documents\\CPTS-121\\PA4_2025-09-26\\craps.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FC62BE9D-22F5-409F-9D01-EAE3758C24CC}|PA4_2025-09-26.vcxproj|solutionrelative:craps.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC62BE9D-22F5-409F-9D01-EAE3758C24CC}|PA4_2025-09-26.vcxproj|C:\\Users\\elist\\Documents\\CPTS-121\\PA4_2025-09-26\\generic.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FC62BE9D-22F5-409F-9D01-EAE3758C24CC}|PA4_2025-09-26.vcxproj|solutionrelative:generic.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 7,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.c",
+              "DocumentMoniker": "C:\\Users\\elist\\Documents\\CPTS-121\\PA4_2025-09-26\\main.c",
+              "RelativeDocumentMoniker": "main.c",
+              "ToolTip": "C:\\Users\\elist\\Documents\\CPTS-121\\PA4_2025-09-26\\main.c",
+              "RelativeToolTip": "main.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-09-26T22:52:35.492Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "generic.c",
+              "DocumentMoniker": "C:\\Users\\elist\\Documents\\CPTS-121\\PA4_2025-09-26\\generic.c",
+              "RelativeDocumentMoniker": "generic.c",
+              "ToolTip": "C:\\Users\\elist\\Documents\\CPTS-121\\PA4_2025-09-26\\generic.c",
+              "RelativeToolTip": "generic.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-09-26T22:51:37.543Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "craps.c",
+              "DocumentMoniker": "C:\\Users\\elist\\Documents\\CPTS-121\\PA4_2025-09-26\\craps.c",
+              "RelativeDocumentMoniker": "craps.c",
+              "ToolTip": "C:\\Users\\elist\\Documents\\CPTS-121\\PA4_2025-09-26\\craps.c",
+              "RelativeToolTip": "craps.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADgBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-09-26T22:14:17.216Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

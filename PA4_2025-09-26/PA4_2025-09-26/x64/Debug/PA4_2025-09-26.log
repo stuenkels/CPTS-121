@@ -1,0 +1,4 @@
+﻿  craps.c
+C:\Users\elist\Documents\CPTS-121\PA4_2025-09-26\craps.c(117,9): warning C4129: 'T': unrecognized character escape sequence
+C:\Users\elist\Documents\CPTS-121\PA4_2025-09-26\craps.c(224,6): warning C4101: 'return_val': unreferenced local variable
+  PA4_2025-09-26.vcxproj -> C:\Users\elist\Documents\CPTS-121\PA4_2025-09-26\x64\Debug\PA4_2025-09-26.exe
