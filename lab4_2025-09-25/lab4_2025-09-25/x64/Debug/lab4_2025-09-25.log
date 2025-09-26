@@ -1,0 +1,4 @@
+﻿  salaries.c
+C:\Users\elist\Documents\CPTS-121\lab4_2025-09-25\salaries.c(91,8): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\elist\Documents\CPTS-121\lab4_2025-09-25\salaries.c(96,9): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  lab4_2025-09-25.vcxproj -> C:\Users\elist\Documents\CPTS-121\lab4_2025-09-25\x64\Debug\lab4_2025-09-25.exe
